@@ -1,16 +1,15 @@
-### Hi there 👋
+### 个人简介
+  Hi，我是六零。
 
-<!--
-**LyLme/LyLme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [🥇我的主页](https://www.lylme.com/)
+- [✨我的博客](https://blog.lylme.com/)
+- [✍️我的Gitee](https://gitee.com/LyLme)
+- [👨‍💻我的GitHub](https://github.com/LyLme)
+- [🚀我的导航](https://hao.lylme.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 拾穗
+  一万年太久，只争朝夕。
+
+| <a href="https://github.com/LyLme"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LyLme&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="LyLme" /></a> | <a href="https://github.com/LyLme"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyLme&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
