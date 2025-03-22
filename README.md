@@ -1,11 +1,10 @@
 ### 个人简介
   Hi，我是六零。
 
-- [🥇我的主页](https://www.lylme.com/)
-- [✨我的博客](https://blog.lylme.com/)
-- [✍️我的Gitee](https://gitee.com/LyLme)
-- [👨‍💻我的GitHub](https://github.com/LyLme)
-- [🚀我的导航](https://hao.lylme.com/)
+- [🥇主页](https://www.lylme.com/)
+- [🚀导航](https://hao.lylme.com/)
+- [✍️Gitee](https://gitee.com/LyLme)
+- [👨‍💻GitHub](https://github.com/LyLme)
 
 
 ## 拾穗
